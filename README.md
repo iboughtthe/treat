@@ -77,4 +77,4 @@ License
 This project is licensed under the MIT License.
 
 Deploy Button
-<a href="https://heroku.com/deploy?template=https://github.com/<your-github-username>/telegram-dialog-scraper.git"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/<iboughtthe>/telegram-dialog-scraper.git"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"></a>
