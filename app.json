@@ -1,0 +1,10 @@
+{
+    "bot_token": "your_bot_token",
+    "chat_id": "your_chat_id"
+}
+import json
+
+def getenv(var):
+    with open('app.json') as f:
+        data = json.load(f)
+    return data.get(var)
